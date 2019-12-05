@@ -1,0 +1,87 @@
+#menu {
+    width: 100%;
+    height: 75px;
+    background-color: #336699;
+    box-shadow: 0px 3px 0px #333399;
+}
+#menu > img {
+    transition: .6s all linear;
+    display: block;
+    position: relative;
+    top: 8px;
+    width: 9%;
+    border-radius: 40%;
+    float: left;
+    margin-left: 45.5%;
+    cursor: pointer;
+}
+#menu > img:hover {
+    border-radius: 5%;
+}
+#listMenu {
+    float: right;
+    height: 75px;
+}
+#listMenu > ul > a > li {
+    float: left;
+    padding-left: 30px;
+    padding-right: 30px;
+    line-height: 75px;
+    list-style: none;
+    font-size: 20px;
+    cursor: pointer;
+    font-weight: 700;
+    transition: 0.5s all linear;
+    color: #031F1F;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#listMenu > ul > a > li:hover {
+    background-color: #333399;
+}
+
+#listMenuStaff {
+    position: absolute;
+    float:left;
+}
+#listMenuStaff > ul > li {
+    float: left;
+    padding-left: 30px;
+    padding-right: 30px;
+    transition: 0.5s all linear;
+    line-height: 75px;
+    list-style: none;
+    font-size: 20px;
+    cursor: pointer;
+    font-weight: 700;
+    color: #031F1F;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#listMenuStaff > ul > li:hover {
+    background-color: #333399;   
+}
+#trocar {
+    display: none;
+}
+#trocarMenu {
+    display: none;
+}
+#active {
+    float: left;
+    position: absolute;
+}
+#active > ul > a > li {
+    float: left;
+    padding-left: 30px;
+    padding-right: 30px;
+    transition: 0.5s all linear;
+    line-height: 75px;
+    list-style: none;
+    font-size: 20px;
+    cursor: pointer;
+    font-weight: 700;
+    color: #031F1F;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#active > ul > a > li:hover {
+    background-color: #333399;
+}
