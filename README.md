@@ -17,14 +17,6 @@
 - ### Nesse curso mós iremos começar inteiramente do zero onde que vamos conter um conteúdo sobre ``algoritmos`` que é o recomendado que você aprende antes de aprender qualquer linguagem de programação, primeiro vamos definir oque é ``algoritmos``, ``algoritmos`` é conjuntos de pensamentos lógicos sobre determinado assunto básicamente é isso.
 
 # CHECKLIST
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+/[ ] # '/[ ]'
 
 **Equipe | DDL-Academy Copyright &copy;**
