@@ -1,4 +1,4 @@
-# **``Olá me chamo Samuel, nesse tópico vamos aprender a responder algumas pergunta bem simples.``**
+# **`Olá me chamo Samuel, nesse tópico vamos aprender a responder algumas pergunta bem simples.`**
 
 ## **O que é programação?**
 
