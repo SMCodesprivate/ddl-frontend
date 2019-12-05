@@ -16,7 +16,16 @@
 
 - ### Nesse curso mós iremos começar inteiramente do zero onde que vamos conter um conteúdo sobre ``algoritmos`` que é o recomendado que você aprende antes de aprender qualquer linguagem de programação, primeiro vamos definir oque é ``algoritmos``, ``algoritmos`` é conjuntos de pensamentos lógicos sobre determinado assunto básicamente é isso.
 
-# CHECKLIST
+# [checkbox:unchecked]
+[-] # '[-]'
+[o] # '[o]'
+[O] # '[O]'
+.
+ # [checkbox:unchecked]
 /[ ] # '/[ ]'
+\[ ] # '[ ]'
+[-] # '[-]'
+[o] # `[o]'
+
 
 **Equipe | DDL-Academy Copyright &copy;**
